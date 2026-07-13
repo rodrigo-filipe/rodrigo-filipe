@@ -16,6 +16,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Rodrigo-Filipe&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Rodrigo-Filipe&icon=0&color=3)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Rodrigo-Filipe&icon=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
